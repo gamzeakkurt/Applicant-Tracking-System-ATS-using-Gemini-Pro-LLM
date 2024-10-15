@@ -1,4 +1,4 @@
-# Applicant Tracking System (ATS) using Gemini Pro LLM
+# Applicant Tracking System (ATS) using Gemini Pro LLM (Resume Analysis)
 
 
 The **Applicant Tracking System (ATS)** is an intelligent tool designed to enhance resume analysis by leveraging Google's **Generative AI (Gemini)**. This system allows users to submit resumes in **PDF format** and match them against job descriptions. It provides feedback on strengths and weaknesses, identifies missing keywords, and suggests skill improvements to increase alignment with the job.
