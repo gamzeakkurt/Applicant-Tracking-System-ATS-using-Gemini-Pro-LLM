@@ -1,1 +1,1 @@
-# Applicant_Tracking_System-ATS-_using_Gemini_Pro_LLM-
+# Applicant Tracking System (ATS) using Gemini Pro LLM
