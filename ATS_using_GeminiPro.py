@@ -11,12 +11,12 @@ import base64
 load_dotenv()
 
 # Configure Google Generative AI
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key="GOOGLE_API_KEY")
 
 # Function to get response from the Gemini API
 def get_gemini_response(input_text, pdf_content, prompt):
     try:
-        model = genai.GenerativeModel('gemini-pro-vision')
+        model = genai.GenerativeModel('gemini-1.5-flash')
         response = model.generate_content([input_text, pdf_content[0], prompt])
         return response.text
     except Exception as e:
