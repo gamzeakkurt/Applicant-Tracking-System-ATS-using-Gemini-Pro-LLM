@@ -7,8 +7,8 @@ The application is built using **Streamlit** for an interactive web interface an
 
 ## Project Interface
 
-<img width="813" alt="Screenshot 2024-10-20 at 19 54 36" src="https://github.com/user-attachments/assets/1158168f-8ced-4f3f-9bf5-c73dbb88da81">
-<img width="743" alt="Screenshot 2024-10-20 at 19 56 28" src="https://github.com/user-attachments/assets/7b5149e4-1c0c-4c1a-80dc-37a3491d3920">
+<img width="600" alt="Screenshot 2024-10-20 at 19 54 36" src="https://github.com/user-attachments/assets/1158168f-8ced-4f3f-9bf5-c73dbb88da81">
+<img width="600" alt="Screenshot 2024-10-20 at 19 56 28" src="https://github.com/user-attachments/assets/7b5149e4-1c0c-4c1a-80dc-37a3491d3920">
 
 ## Key Features
 
