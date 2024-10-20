@@ -4,6 +4,9 @@
 The **Applicant Tracking System (ATS)** is an intelligent tool designed to enhance resume analysis by leveraging Google's **Generative AI (Gemini)**. This system allows users to submit resumes in **PDF format** and match them against job descriptions. It provides feedback on strengths and weaknesses, identifies missing keywords, and suggests skill improvements to increase alignment with the job.
 
 The application is built using **Streamlit** for an interactive web interface and incorporates tools such as **PyPDF2** for PDF processing and **Google Generative AI** for content generation.
+
+## Project Interface
+
 <img width="813" alt="Screenshot 2024-10-20 at 19 54 36" src="https://github.com/user-attachments/assets/1158168f-8ced-4f3f-9bf5-c73dbb88da81">
 <img width="743" alt="Screenshot 2024-10-20 at 19 56 28" src="https://github.com/user-attachments/assets/7b5149e4-1c0c-4c1a-80dc-37a3491d3920">
 
